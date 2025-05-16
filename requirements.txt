@@ -1,0 +1,14 @@
+# Core dependencies
+Django>=4.2
+django-crispy-forms>=2.0
+crispy-bootstrap5>=0.7
+django-widget-tweaks>=1.4.12
+
+# For handling image uploads
+Pillow>=10.0.0
+
+# For Ajax and CORS (if applicable)
+django-cors-headers>=4.0.0
+
+# Optional: Debugging during development
+django-debug-toolbar>=4.2
